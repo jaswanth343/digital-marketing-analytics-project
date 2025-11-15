@@ -15,11 +15,7 @@ I analyzed **115,000+ digital ad performance records** to understand how banner 
   <img src="ImageBanner.png" alt="Digital Marketing Analytics Project Banner" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Libraries-Pandas%20%7C%20Seaborn%20%7C%20Matplotlib-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
-</p>
+
 
 This project showcases my end-to-end analytical capabilities as a Data Analyst, covering everything from data cleaning and feature engineering to insight generation and data storytelling.
 
