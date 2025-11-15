@@ -12,7 +12,7 @@ I analyzed **115,000+ digital ad performance records** to understand how banner 
 
 
 <p align="center">
-  <img src="banner.png" alt="Digital Marketing Analytics Project Banner" width="100%">
+  <img src="ImageBanner.png" alt="Digital Marketing Analytics Project Banner" width="100%">
 </p>
 
 <p align="center">
@@ -27,14 +27,64 @@ I analyzed **15,000+ digital advertising records** to uncover how banner sizes, 
 
 The repository includes my full analysis code, business insights, and polished project report.
 
-📘 Table of Contents
 
-📌 Project Overview
-📂 Dataset Description
-📈 Key Business Questions
-🔍 Insights & Findings
-▶️ How to Run This Project
-👨‍💻 Author
+---
+
+# ⭐ Why this is MUCH better
+
+### ✔ Clean table layout  
+Easy for recruiters to scan each file + description.
+
+### ✔ Professional icons  
+Used consistently to represent file types.
+
+### ✔ Perfect spacing  
+GitHub displays tables very cleanly.
+
+### ✔ Optional folder structure  
+Shows how well-organized your project is.
+
+---
+
+# 🔥 Want an even more aesthetic version?
+
+### **Version B — Modern Card Layout**
+
+```md
+## 📁 Repository Contents
+
+### 🧠 Code
+- **Code_file.py**  
+  Full Python analysis script with EDA, KPI metrics, trends, & visualizations.
+
+### 📊 Data
+- **online_advertising_performance_data.csv**  
+  Dataset used for ad-performance analysis. *(Include only if permitted)*
+
+### 📄 Reports
+- **Digital_Marketing_Analytics_Report.docx**  
+  Complete written analysis + graphs + business recommendations.
+
+- **Problem Statement & Data Description.docx**  
+  Original project brief & variable definitions.
+
+### 📚 Documentation
+- **README.md**  
+  Portfolio showcase with insights, visuals, and project overview.
+
+---
+
+## 📁 Repository Contents
+
+Here’s a quick overview of everything included in this project:
+
+| File / Folder | Description |
+|--------------|-------------|
+| **Code_file.py** | 🧠 Full Python analysis script containing EDA, visualizations, and KPI computation |
+| **online_advertising_performance_data.csv** | 📊 Dataset used for analysis *(add only if shareable)* |
+| **Digital_Marketing_Analytics_Report.docx** | 📄 Full project report with insights, visuals, and recommendations |
+| **Problem Statement & Data Description.docx** | 📘 Original project brief and dataset explanation |
+| **README.md** | 📚 Portfolio showcase including project summary, findings & visual documentation |
 
 ---
 
