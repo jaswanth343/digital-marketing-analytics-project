@@ -109,7 +109,7 @@ Insights written for executives, marketing teams, and analysts.
 pip install pandas numpy seaborn matplotlib
 
 2️⃣ Run the Analysis Script
-python Code_file.py
+python : Code_file.py
 
 3️⃣ View the Results
 All graphs and metrics will display automatically.
@@ -117,9 +117,6 @@ All graphs and metrics will display automatically.
 
 ---
 
-With:
-
-```markdown
 ## 👨‍💻 Author
 
 **Jaswanth Reddy Lanka**  
