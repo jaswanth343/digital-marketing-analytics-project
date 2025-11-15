@@ -12,7 +12,7 @@ I analyzed **115,000+ digital ad performance records** to understand how banner 
 
 
 <p align="center">
-  <img src="github-banner.png" alt="Digital Marketing Project Banner" width="100%">
+  <img src="banner.png" alt="Digital Marketing Analytics Project Banner" width="100%">
 </p>
 
 <p align="center">
