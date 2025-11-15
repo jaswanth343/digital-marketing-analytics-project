@@ -98,18 +98,6 @@ Line charts, bar charts, scatterplots, regression lines, distributions — all a
 ### 💼 **Business-Focused Interpretation**
 Insights written for executives, marketing teams, and analysts.
 
-
----
-
-## 📁 Repository Contents
-📂 Digital-Marketing-Analytics-Project
-│
-├── Code_file.py # Full Python analysis script
-├── online_advertising_performance_data.csv # Dataset (if shareable)
-├── Digital_Marketing_Analytics_Report.docx # Full report with visuals
-├── Problem Statement & Data Description.docx # Original project brief
-└── README.md # Portfolio showcase (this file)
-
 ---
 
 ## 🛠️ Tools & Technologies
